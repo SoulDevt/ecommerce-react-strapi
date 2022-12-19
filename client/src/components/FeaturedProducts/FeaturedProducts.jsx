@@ -7,6 +7,8 @@ const FeaturedProducts = ({ type }) => {
     {
       id: 1,
       img: "https://images.pexels.com/photos/2065200/pexels-photo-2065200.jpeg?auto=compress&cs-tinysrab&w=1600",
+      img2: "https://images.pexels.com/photos/1163194/pexels-photo-1163194.jpeg?auto=compress&cs-tinysrab&w=1600%22",
+      isNew: true,
       title: "halt",
       oldPrice: 19,
       price: 12,
