@@ -25,7 +25,7 @@ const Product = () => {
       </div>
       <div className="right">
         <h1>Title</h1>
-        <span>199€</span>
+        <span className="price">199€</span>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
           molestiae delectus nihil nisi possimus, explicabo quibusdam at
