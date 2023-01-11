@@ -35,8 +35,9 @@ const List = () => {
       price: 12,
     },
   ];
-  return <div className="list">{data?.map(item => (
-    <Card item={item} key={item.id} />
+  return <div className="list">
+    {/* {data?.map(item => (
+    <Card item={item} key={item.id} /> */}
   ))}</div>;
 };
 
